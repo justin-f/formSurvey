@@ -1,35 +1,27 @@
 p {
-   
-  font-size: 50px;  
-  font-size: 3.4vw; 
-  text-align: center;
-  font-family: Tahoma;
-  background-color: #CC99FF;
-  color: #000000;
-  background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png");
-  }
-
+	font-size: 50px;
+	font-size: 3.4vw;
+	text-align: center;
+	font-family: Tahoma;
+	background-color: #CC99FF;
+	color: #000000;
+	background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png");
+}
 control-label {
-    font-family: Tahoma;
-    color: #FFFFFF;
-    
+	font-family: Tahoma;
+	color: #FFFFFF;
 }
-
 label {
-    font-family: Tahoma;
-    color: #000000;
+	font-family: Tahoma;
+	color: #000000;
 }
-
-
 body {
-    background-image: url("https://www.transparenttextures.com/patterns/twinkle-twinkle.png");
+	background-image: url("https://www.transparenttextures.com/patterns/twinkle-twinkle.png");
 }
-
 #form {
-    background-color:#CC99FF; 
-    padding:2em; 
-    border-style:solid;
-    border-color:#000000;
-    background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png");
-
+	background-color: #CC99FF;
+	padding: 2em;
+	border-style: solid;
+	border-color: #000000;
+	background-image: url("https://www.transparenttextures.com/patterns/white-brick-wall.png");
 }
